@@ -5,6 +5,10 @@ import math
 def recipe_batches(recipe, ingredients):
   pass 
 
+# The function takes in a recipe dictionary and a ingredients dictionary
+# It needs iterate through the keys in the first dictionary and match them with the keys of the second
+# 
+
 
 if __name__ == '__main__':
   # Change the entries of these dictionaries to test 
